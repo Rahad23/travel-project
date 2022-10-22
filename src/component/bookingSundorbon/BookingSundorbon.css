@@ -1,0 +1,13 @@
+.sundorbonImg{
+    background-image: url('../../images/tigers.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 635px;
+    z-index: -1;
+}
+.overlay{
+    background: rgba(30, 39, 46,.3);
+    z-index: 5;
+    height: 100%;
+}

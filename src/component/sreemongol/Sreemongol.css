@@ -1,0 +1,13 @@
+.sreemongolImg{
+    background-image: url('../../images/hill.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 600px;
+    z-index: -1;
+}
+.overlay{
+    background: rgba(30, 39, 46,.3);
+    z-index: 5;
+    height: 100%;
+}
